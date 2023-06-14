@@ -198,7 +198,7 @@
 
 # 联系方式
 
-添加微信备注 Github ChatGPT 以及原因，微信群请在 [issue](https://github.com/hncboy/chatgpt-web-java/issues/77) 查看
+添加微信备注 GitHub ChatGPT 以及原因，微信群请在 [issue](https://github.com/hncboy/chatgpt-web-java/issues/77) 查看
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="text-align: center">
